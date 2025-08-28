@@ -57,3 +57,11 @@ The app also leverages job descriptions to ensure questions are relevant to spec
 ## 📜 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details and the infringment.
 
+## My Contribution
+
+This is a practice pull request to demonstrate the GitHub workflow.
+
+- Added this new section to the README
+- Practicing Git commands and PR process
+- Learning open-source collaboration
+............................................................................................
